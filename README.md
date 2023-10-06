@@ -5,7 +5,7 @@
 # hello there!
 **- 🌾 20 years old from Italy -** 
 
-**- 💮 Learning C# [Oct 2023] -**
+**- 🍫 want to learn C# -**
 
 **- 🥓 discord: kvnxii -**
 
