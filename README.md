@@ -1,11 +1,10 @@
-hello there!
+🌺 hello there!
 ----------
 
-**- 🌾 20 years old from Italy -** 
-
-**- 🍫 learning C# -** 
-
-**- 🥓 discord: kvnxii -**
+* - **20** years old from **North Italy** (Veneto) ♡
+* - learning **C#** (or trying to, at least) ♡
+* - interested in **osu! developement** ♡
+* - discord: **kvnxii** ♡
 
 ----------
 
