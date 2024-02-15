@@ -1,7 +1,7 @@
 🌺 hello there!
 ----------
 
-* - **20** years old from **North Italy** (Veneto) ♡
+* - GFX ARTIST, **20** years old from **North Italy** (Veneto) ♡
 * - learning **C#, .NET** ♡
 * - interested in **osu! developement** ♡
 * - discord: **kvnxii** ♡
