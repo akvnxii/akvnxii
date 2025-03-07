@@ -2,10 +2,8 @@
 ----------
 
 * - GFX ARTIST, **21** years old from **North Italy** (Veneto) ♡
-* - learning **C#, .NET** ♡
-* - interested in **osu! developement** ♡
 * - discord: **kvnxii** ♡
-* - WIN 10 USER ♡
+* - WIN 11 USER ♡
 
 [ 𝘫𝘶𝘴𝘵 𝘢 𝘨𝘶𝘺, 𝘢𝘵 𝘵𝘩𝘦 𝘦𝘯𝘥 𝘰𝘧 𝘵𝘩𝘦 𝘥𝘢𝘺 ]
 
