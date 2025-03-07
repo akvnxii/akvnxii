@@ -11,7 +11,7 @@
 
 ----------
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=214v6apoudpjrt7vrte2rlsua&cover_image=true&theme=default&show_offline=false&background_color=000040&interchange=false&bar_color=8080ff&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=214v6apoudpjrt7vrte2rlsua&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=214v6apoudpjrt7vrte2rlsua&cover_image=true&theme=compact&show_offline=false&background_color=000040&interchange=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=214v6apoudpjrt7vrte2rlsua&redirect=true)
 <!-- [![Discord Presence](https://lanyard-profile-readme.vercel.app/api/493878038505979904?bg=8053b0&borderRadius=2px)](https://lanyard-visualizer.netlify.app/493878038505979904) 
 
 ----------
