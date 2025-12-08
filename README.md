@@ -1,7 +1,7 @@
 🌺 hello there!
 ----------
 
-* - GFX ARTIST, **21** years old from **North Italy** (Veneto) ♡
+* - GFX ARTIST, **22** years old from **North Italy** (Veneto) ♡
 * - discord: **kvnxii** ♡
 * - WIN 11 USER ♡
 
